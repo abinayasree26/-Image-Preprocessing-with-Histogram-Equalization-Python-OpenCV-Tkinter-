@@ -1,0 +1,2 @@
+# -Image-Preprocessing-with-Histogram-Equalization-Python-OpenCV-Tkinter-
+This Python GUI application allows users to preprocess images using OpenCV and Tkinter. It supports multiple image processing techniques, including Histogram Equalization, Gaussian Blur, and Canny Edge Detection. The app also displays the original and processed images alongside their histograms and computes quality metrics such as PSNR and MSE.
